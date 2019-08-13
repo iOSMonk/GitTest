@@ -11,5 +11,5 @@ Creating a new branch is quick and simple.
 woshishui
 woshishui
 
-Git tracks changes of files.
+Git tracks changes of file
 
